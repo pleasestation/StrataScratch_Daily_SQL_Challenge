@@ -1,0 +1,1 @@
+# StrataScratch_Daily_SQL_Challenge
